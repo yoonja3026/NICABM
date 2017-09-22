@@ -596,7 +596,7 @@ img.hwn {
 <!--Video-->
 <div style="width:100%;margin-left:auto;margin-right:auto;padding-bottom: 35px;">
   <script charset="ISO-8859-1" src="//fast.wistia.com/assets/external/E-v1.js" async></script>
-  <div class="wistia_embed wistia_async_nnu60f36p8" style="width:740px;height:416px;margin-left: auto;margin-right: auto;">&nbsp;</div>
+  <div class="wistia_embed wistia_async_41shoupll2" style="width:740px;height:416px;margin-left: auto;margin-right: auto;">&nbsp;</div>
   <!--<script type="text/javascript" src="https://www.nicabm.com/js/1.8.2/jquery-1.8.2.min.js"></script>-->
   <script src="https://www.nicabm.com/js/cookie.js"></script>
   <script>
@@ -613,7 +613,7 @@ img.hwn {
     window._wq = window._wq || [];
 
     // target our video by the first 3 characters of the hashed ID
-    _wq.push({ id: "nnu60f36p8", onReady: function(video) {
+    _wq.push({ id: "41shoupll2", onReady: function(video) {
 
       // on play, seek the video to X seconds, then unbind so it
       // only happens once.
